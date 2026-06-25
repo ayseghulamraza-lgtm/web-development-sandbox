@@ -1,0 +1,10 @@
+body{
+    background-color: salmon;
+}
+p{
+    color:brown
+}
+.para{
+    border: 2px solid darkred;
+    border-radius: 5px;
+}
